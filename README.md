@@ -21,3 +21,6 @@
 - [ ] 投影片 (口頭報告組)
     - 檔名：`G<組別>_slides` (例：`G01_slides.pdf`)
     - 格式：`.pdf`
+
+**註**
+本專案原始網站位於：https://github.com/rlads2019/project-LiYang-Tseng
